@@ -1,0 +1,27 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "The Odin Project - Testing Practice exercise, from the Javascript course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panthomema/odin-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panthomema/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/Panthomema/odin-testing-practice#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
