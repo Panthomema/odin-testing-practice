@@ -5,7 +5,11 @@ This is an exercise solution for the
 that can be found on the
 [The Odin Project's JavaScript course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript).
 
-For practice purposes, it is written in TypeScript instead of JavaScript.
+For practice purposes, it is written in TypeScript instead of JavaScript, and it
+uses ts-jest for testing.
+
+Source files are located in the `src/` folder, while tests are located in the
+`tests/` folder.
 
 ---
 
