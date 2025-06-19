@@ -29,4 +29,3 @@ describe.skip('capitalize', () => {
     expect(capitalize('élan')).toBe('Élan');
   });
 });
-
